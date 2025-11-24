@@ -1,0 +1,13 @@
+{
+  "name": "stremio-ita-plus",
+  "version": "2.0.0",
+  "description": "Stremio addon serverless with Multi-Scraper",
+  "type": "module",
+  "main": "api/index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
